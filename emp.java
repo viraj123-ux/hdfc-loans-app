@@ -19,9 +19,8 @@ public class MyApp {
                  int i=0;
 
                  int j=12;
-                 
-
-	        String name ="ashokit";
+              String name ="ashokit";
+		      boolean status= false;
 
 
 	}
