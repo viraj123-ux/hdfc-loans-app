@@ -17,6 +17,7 @@ public class MyApp {
 		// call bean method
 		bean.printName();
                  int i=0;
+		      String name ="ashokit";
 
 	}
 }
