@@ -22,6 +22,7 @@ public class MyApp {
                  
 
 	        String name ="ashokit";
+                int k=30;
 
 
 	}
