@@ -27,6 +27,7 @@ public class MyApp {
 
               String name ="ashokit";
               boolean status= false;
+                int k=18;
                 
 
 
