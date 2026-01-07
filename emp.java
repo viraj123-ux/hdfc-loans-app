@@ -16,5 +16,8 @@ public class MyApp {
 
 		// call bean method
 		bean.printName();
+
+               String name="rajwardhini";
+
 	}
 }
