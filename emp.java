@@ -17,8 +17,12 @@ public class MyApp {
 		// call bean method
 		bean.printName();
                  int i=0;
+
                  int j=12;
                  
+
+	        String name ="ashokit";
+
 
 	}
 }
